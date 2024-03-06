@@ -1,0 +1,8 @@
+  File "main.py", line 2
+    1. Страница с адресом "/news/", на которой будет выводиться список всех новостей. Для этого создадим функцию-обработчик для этого маршрута:
+       ^
+SyntaxError: invalid syntax
+
+
+** Process exited - Return Code: 1 **
+Press Enter to exit terminal
